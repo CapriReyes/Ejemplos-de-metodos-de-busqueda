@@ -1,4 +1,5 @@
 # Ejemplos-De-Metodos-De-Busqueda
+
 Declaracion de librerias y funciones a utilizar, ademas de iniciar el programa con el metodo main().
 
 ![1](https://user-images.githubusercontent.com/71307223/97352557-6f64d580-1858-11eb-827b-216b936b6c23.png)
